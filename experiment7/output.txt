@@ -1,0 +1,41 @@
+Enter a tweet:AI is transforming social media
+
+Tokens:
+['ai', 'is', 'transforming', 'social', 'media']
+
+========== N-GRAM MODEL ==========
+
+Unigrams:
+[('ai',), ('is',), ('transforming',), ('social',), ('media',)]
+
+Bigrams:
+[('ai', 'is'), ('is', 'transforming'), ('transforming', 'social'), ('social', 'media')]
+
+Trigrams:
+[('ai', 'is', 'transforming'), ('is', 'transforming', 'social'), ('transforming', 'social', 'media')]
+
+Word Frequencies:
+ai : 1
+is : 1
+transforming : 1
+social : 1
+media : 1
+
+========== HMM MODEL ==========
+HMM POS Tagging:
+ai : NNP
+is : NNP
+transforming : NNP
+social : NNP
+media : NNP
+
+========== COMPARISON ==========
+N-Gram Model
+- Learns word sequences.
+- Predicts the next word based on previous words.
+- Used for text generation and language modeling.
+
+HMM Model
+- Predicts Part-of-Speech (POS) tags.
+- Uses transition and emission probabilities.
+- Used for sequence labeling tasks.

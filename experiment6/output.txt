@@ -1,5 +1,6 @@
-Enter biomedical sentence: Actual Relation (1/0): Enter biomedical sentence: This treatment helps reduce symptoms.
-Actual Relation (1/0): 1
+Enter biomedical sentence:This treatment helps reduce symptoms.
+Actual Relation (1/0):
+Actual relation: 1
 
 Tokens:
 ['this', 'treatment', 'helps', 'reduce', 'symptoms', '.']

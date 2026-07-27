@@ -1,8 +1,9 @@
-Enter number of documents: Enter document: enter document : Machine learning is useful.
-Enter document: enter document : Deep learning is powerful.
-Enter document: enter document : Search engines find information.
+Enter number of documents:3
+Enter document: Machine learning is useful.
+Enter document: Deep learning is powerful.
+Enter document: Search engines find information.
 
-Enter search query: Enter a sentence: machine learning
+Enter search query: machine learning
 
 TF-IDF Similarity Scores:
 Document 1 : 0.707
