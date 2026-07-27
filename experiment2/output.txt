@@ -1,0 +1,25 @@
+Enter a sentence: This is a sample sentence for POS tagging.
+
+Tokens:
+['This', 'is', 'a', 'sample', 'sentence', 'for', 'POS', 'tagging', '.']
+
+POS Tags:
+This -> DT
+is -> VBZ
+a -> DT
+sample -> JJ
+sentence -> NN
+for -> IN
+POS -> NNP
+tagging -> NN
+. -> .
+
+Tag Meanings:
+NN -> Noun
+VB -> Verb
+JJ -> Adjective
+RB -> Adverb
+PRP -> Pronoun
+DT -> Determiner
+
+Total Words: 9

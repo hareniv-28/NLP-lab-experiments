@@ -1,0 +1,18 @@
+Enter number of documents: Enter document: enter document : Machine learning is useful.
+Enter document: enter document : Deep learning is powerful.
+Enter document: enter document : Search engines find information.
+
+Enter search query: Enter a sentence: machine learning
+
+TF-IDF Similarity Scores:
+Document 1 : 0.707
+Document 2 : 0.259
+Document 3 : 0.0
+
+LSA Similarity Scores:
+Document 1 : 1.0
+Document 2 : 1.0
+Document 3 : 0.0
+
+Most Relevant Document:
+Machine learning is useful.

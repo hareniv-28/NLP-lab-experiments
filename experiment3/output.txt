@@ -1,0 +1,13 @@
+Enter number of headlines: 2
+Enter headline: AI is changing the world.
+Enter headline: Technology improves daily life.
+
+Cosine Similarity Matrix:
+[[1. 0.]
+ [0. 1.]]
+
+Headline Clusters:
+AI is changing the world. -> Cluster 1
+Technology improves daily life. -> Cluster 0
+
+Enter first word: Enter second word: WordNet Similarity: 0.06666666666666667

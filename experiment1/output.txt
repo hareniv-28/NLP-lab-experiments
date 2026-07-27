@@ -1,0 +1,17 @@
+Enter a sentence: This is a simple example sentence.
+
+Original Text:
+This is a simple example sentence.
+
+Tokens:
+['This', 'is', 'a', 'simple', 'example', 'sentence', '.']
+
+Stemmed Words:
+['thi', 'is', 'a', 'simpl', 'exampl', 'sentenc', '.']
+
+Lemmatized Words:
+['This', 'is', 'a', 'simple', 'example', 'sentence', '.']
+
+Comparison:
+Stemming reduces words to root forms, which may not be meaningful.
+Lemmatization converts words to meaningful base forms.

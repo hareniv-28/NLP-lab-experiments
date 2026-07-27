@@ -1,0 +1,9 @@
+Enter legal text: Microsoft announced a new product in London.
+
+Detected Named Entities:
+Microsoft -> ENTITY
+London -> ENTITY
+
+Enter actual number of entities: 2
+Predicted Entities: 2
+NER Accuracy: 100.0 %

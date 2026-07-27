@@ -1,0 +1,10 @@
+Enter biomedical sentence: Actual Relation (1/0): Enter biomedical sentence: This treatment helps reduce symptoms.
+Actual Relation (1/0): 1
+
+Tokens:
+['this', 'treatment', 'helps', 'reduce', 'symptoms', '.']
+
+Predicted Relation: 1
+Precision: 1.0
+Recall: 1.0
+F1-Score: 1.0
