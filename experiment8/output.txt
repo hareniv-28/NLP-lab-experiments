@@ -1,0 +1,25 @@
+Enter number of reviews: 3   
+Enter review: The phone camera quality is amazing.
+Enter review: Baterry life is perfect
+Enter review: The price is fantastic as well.
+
+Topics:
+
+Topic 1
+life
+phone
+camera
+quality
+amazing
+
+Topic 2
+life
+perfect
+baterry
+price
+fantastic
+
+t-SNE Coordinates:
+Review 1 : [ 517.1099  -170.63329]
+Review 2 : [-197.5378   167.27284]
+Review 3 : [-133.09206 -617.51044]
