@@ -1,0 +1,8 @@
+Enter number of documents: 2
+Enter document: The court judgement was delivered
+Enter category: court
+Enter document: Employment agreement is valid
+Enter category: agreement
+
+Rule-Based Accuracy: 0.5
+Maximum Entropy Accuracy: 1.0

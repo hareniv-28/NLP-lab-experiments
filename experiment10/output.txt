@@ -1,0 +1,71 @@
+Enter number of posts: 3
+Enter post: The smartphone camera is amazing
+Enter post: The customer support was dissapointing 
+Enter post: Delivery service was delayed
+Enter number of clusters: 2
+
+Cluster Results:
+
+Post: The smartphone camera is amazing
+Cluster: 0
+
+Post: The customer support was dissapointing 
+Cluster: 0
+
+Post: Delivery service was delayed
+Cluster: 1
+
+Important Keywords:
+
+Cluster 0
+dissapointing
+smartphone
+smartphone camera
+support
+support dissapointing
+
+Cluster 1
+delayed
+delivery
+delivery service
+service
+service delayed
+
+Marketing Insight:
+Similar customer opinions are grouped together.
+Clusters help identify product trends and issueEnter number of posts: 3
+Enter post: The smartphone camera is amazing
+Enter post: The customer support was dissapointing 
+Enter post: Delivery service was delayed
+Enter number of clusters: 2
+
+Cluster Results:
+
+Post: The smartphone camera is amazing
+Cluster: 0
+
+Post: The customer support was dissapointing 
+Cluster: 0
+
+Post: Delivery service was delayed
+Cluster: 1
+
+Important Keywords:
+
+Cluster 0
+dissapointing
+smartphone
+smartphone camera
+support
+support dissapointing
+
+Cluster 1
+delayed
+delivery
+delivery service
+service
+service delayed
+
+Marketing Insight:
+Similar customer opinions are grouped together.
+Clusters help identify product trends and issues.
